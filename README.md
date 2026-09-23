@@ -110,5 +110,5 @@ Die App öffnet sich anschließend im Browser unter `http://localhost:8501`.
 ## Screenshots
 
 ![Übersicht](screenshots/Overlay.png)
-![Popup mit OSM-Links](screenshots/Details.png)
+![Popup mit OSM-Links](screenshots/Deatails.png)
 ![Filter](screenshots/Filter.png)
