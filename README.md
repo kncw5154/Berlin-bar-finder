@@ -6,8 +6,8 @@
 |---|---|
 | **Name** | T. Wittig |
 | **Matrikelnummer** | 110407 |
-| **Live-App** | LINK-ZUR-STREAMLIT-APP |
-| **Quellcode** | LINK-ZU-DIESEM-REPO |
+| **Live-App** | https://berlin-bar-finder.streamlit.app |
+| **Quellcode** | https://github.com/kncw5154/Berlin-bar-finder |
 
 ---
 
